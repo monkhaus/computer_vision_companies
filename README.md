@@ -55,7 +55,7 @@ Companies that use computer vision related technologies sorted alphabetically
 * [Next Future Transportation](https://www.next-future-mobility.com/)
 ## O
 * [Occipital](https://occipital.com/)
-* [Octi)[https://www.octi.tv/index.html]
+* [Octi](https://www.octi.tv/index.html)
 * [OnSiteIQ](https://onsiteiq.io/)
 ## P
 * [Pearl](https://hellopearl.com/index)
