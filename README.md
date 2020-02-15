@@ -31,39 +31,42 @@ Companies that use computer vision related technologies sorted alphabetically
 
 ## A
 * [Aeye, Inc](https://www.aeye.ai/) 
+* [Aira](https://aira.io/)
 * [Arturo](https://www.arturo.ai/)
 * [Athena Security Solutions](https://www.athenasecuritysolutions.co.uk/) 
 ## B
-[Betterview](https://www.betterview.com/)
+* [Betterview](https://www.betterview.com/)
 ## C
 ## D
-[Descartes Labs](https://www.descarteslabs.com/)
+* [Descartes Labs](https://www.descarteslabs.com/)
 ## E
 ## F
 ## G
 ## H
-[Hover](https://hover.to/)
+* [Hover](https://hover.to/)
 ## I
 ## J
 ## K
 ## L
 ## M
-[Magic Leap](https://www.magicleap.com/)
-[Matterport](https://matterport.com/)
+* [Magic Leap](https://www.magicleap.com/)
+* [Matterport](https://matterport.com/)
 ## N
-[Next Future Transportation](https://www.next-future-mobility.com/)
+* [Next Future Transportation](https://www.next-future-mobility.com/)
 ## O
-[Occipital](https://occipital.com/)
+* [Occipital](https://occipital.com/)
+* [Octi)[https://www.octi.tv/index.html]
+* [OnSiteIQ](https://onsiteiq.io/)
 ## P
-[Pearl](https://hellopearl.com/index)
-[Popspots](https://getpopspots.com/)
+* [Pearl](https://hellopearl.com/index)
+* [Popspots](https://getpopspots.com/)
 ## Q
 ## R
-[Radar](https://goradar.com/)
-[Reconstruct](https://www.reconstructinc.com/)
+* [Radar](https://goradar.com/)
+* [Reconstruct](https://www.reconstructinc.com/)
 ## S
-[Scape Technologies](https://www.scape.io/)
-[Streem](https://streem.pro/)
+* [Scape Technologies](https://www.scape.io/)
+* [Streem](https://streem.pro/)
 ## T
 ## U
 ## V
