@@ -86,9 +86,11 @@ Companies that use computer vision related technologies sorted alphabetically
 * [Reconstruct](https://www.reconstructinc.com/)
 * [Ryff](https://www.ryff.co/)
 ## S
+* [Scaled Robotics](https://www.scaledrobotics.com/)
 * [Scape Technologies](https://www.scape.io/)
 * [Sight Diagnostics](https://www.sightdx.com/)
 * [Simbe](https://www.simberobotics.com/)
+* [SmartDrive](https://www.smartdrive.net/)
 * [Streem](https://streem.pro/)
 ## T
 * [TechSee](https://techsee.me/)
@@ -98,6 +100,7 @@ Companies that use computer vision related technologies sorted alphabetically
 ## U
 ## V
 * [Veo Robotics](https://www.veobot.com/)
+* [Voxel51](https://voxel51.com/)
 ## W
 * [WayRay](https://wayray.com/)
 ## X
