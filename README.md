@@ -60,7 +60,9 @@ Companies that use computer vision related technologies sorted alphabetically
 ## Q
 ## R
 [Radar](https://goradar.com/)
+[Reconstruct](https://www.reconstructinc.com/)
 ## S
+[Scape Technologies](https://www.scape.io/)
 [Streem](https://streem.pro/)
 ## T
 ## U
