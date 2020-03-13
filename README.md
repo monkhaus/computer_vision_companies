@@ -52,6 +52,7 @@ Sorted alphabetically for now, will eventually do it by field, and leave some de
 ## C
 * [Clarifai](https://www.clarifai.com/)
 ## D
+* [Deep North](https://deepnorth.com/)
 * [Deepomatic](https://deepomatic.com/en/)
 * [DeepScale](http://deepscale.ai/)
 * [Deep Sentinel](https://www.deepsentinel.com/)
