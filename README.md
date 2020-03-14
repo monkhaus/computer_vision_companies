@@ -65,6 +65,7 @@ Sorted alphabetically for now, will eventually do it by field, and leave some de
 * [Face++](https://www.faceplusplus.com/)
 * [Farmwise](https://farmwise.io/)
 * [Foodvisor](https://www.foodvisor.io/en/)
+* [ForwardX](https://www.forwardx.com/)
 ## G
 * [Gideon Brothers](https://www.gideonbros.ai/)
 * [Greyparrot](https://greyparrot.ai/)
