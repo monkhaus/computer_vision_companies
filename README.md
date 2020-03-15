@@ -127,6 +127,7 @@ Sorted alphabetically for now, will eventually do it by field, and leave some de
 * [SmartDrive](https://www.smartdrive.net/)
 * [Sportlogiq](https://sportlogiq.com/en/)
 * [Standard Cognition](https://standard.ai/)
+* [StatsPerform](https://www.statsperform.com/)
 * [Streem](https://streem.pro/)
 ## T
 * [TechSee](https://techsee.me/)
