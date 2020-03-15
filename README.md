@@ -58,6 +58,7 @@ Sorted alphabetically for now, will eventually do it by field, and leave some de
 * [Deep Sentinel](https://www.deepsentinel.com/)
 * [Descartes Labs](https://www.descarteslabs.com/)
 ## E
+* [EmoTech](https://emotech.ai/)
 * [Elementary Robotics](https://www.elementaryrobotics.com/)
 * [Eyeem](https://www.eyeem.com/)
 * [Eyesight Technologies](https://www.eyesight-tech.com/)
