@@ -100,6 +100,7 @@ Sorted alphabetically for now, will eventually do it by field, and leave some de
 ## P
 * [PathAI](https://www.pathai.com/)
 * [Pearl](https://hellopearl.com/index)
+* [Plant Scope](http://leafplanttech.com/)
 * [Polarity](https://polarity.io/)
 * [Popspots](https://getpopspots.com/)
 * [Prisma Labs](https://prisma-ai.com/)
